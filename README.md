@@ -42,7 +42,6 @@ The dataset contains customer shopping transactions and includes:
 * Subscription Status
 * Shipping Type
 * Discount Applied
-* Promo Code Used
 * Previous Purchases
 * Payment Method
 * Frequency of Purchases
